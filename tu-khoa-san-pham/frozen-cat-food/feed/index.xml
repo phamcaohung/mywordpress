@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Frozen cat food &#8211; My WordPress</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/frozen-cat-food/feed/" rel="self" type="application/rss+xml" />
+	<link>https://phamcaohung.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Thu, 13 Oct 2022 03:29:23 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<item>
+		<title>Dog treats</title>
+		<link>https://phamcaohung.github.io/mywordpress/san-pham/dog-treats-2/</link>
+					<comments>https://phamcaohung.github.io/mywordpress/san-pham/dog-treats-2/#respond</comments>
+		
+		<dc:creator><![CDATA[phamcaohung]]></dc:creator>
+		<pubDate>Thu, 13 Oct 2022 03:29:23 +0000</pubDate>
+				<guid isPermaLink="false">https://phamcaohung.github.io/mywordpress/?post_type=product&#038;p=703</guid>
+
+					<description><![CDATA[<p class="availability stock in-stock" data-original="In Stock" data-class="in-stock">In Stock</p>
+
+<div class="ftc_excerpt">
+<div class="full-content">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum porttitor, massa pharetra malesuada rhoncus, metus metus commodo urna, vitae posuere leo sapien at elit. Nunc eu cursus nibh. D</div>
+</div>]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum porttitor, massa pharetra malesuada rhoncus, metus metus commodo urna, vitae posuere leo sapien at elit. Nunc eu cursus nibh. Donec accumsan enim eget augue imperdiet aliquet. In vitae tortor at justo fringilla tincidunt. Maecenas elementum auctor tortor. Maecenas posuere dolor justo, dictum ultricies nisl iaculis non. Praesent orci quam, feugiat nec erat in, accumsan feugiat tortor.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://phamcaohung.github.io/mywordpress/san-pham/dog-treats-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Chicken recipe</title>
+		<link>https://phamcaohung.github.io/mywordpress/san-pham/chicken-recipe/</link>
+					<comments>https://phamcaohung.github.io/mywordpress/san-pham/chicken-recipe/#respond</comments>
+		
+		<dc:creator><![CDATA[phamcaohung]]></dc:creator>
+		<pubDate>Thu, 13 Oct 2022 03:15:52 +0000</pubDate>
+				<guid isPermaLink="false">https://phamcaohung.github.io/mywordpress/?post_type=product&#038;p=679</guid>
+
+					<description><![CDATA[<p class="availability stock in-stock" data-original="In Stock" data-class="in-stock">In Stock</p>
+
+<div class="ftc_excerpt">
+<div class="full-content">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum porttitor, massa pharetra malesuada rhoncus, metus metus commodo urna, vitae posuere leo sapien at elit. Nunc eu cursus nibh. D</div>
+</div>]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum porttitor, massa pharetra malesuada rhoncus, metus metus commodo urna, vitae posuere leo sapien at elit. Nunc eu cursus nibh. Donec accumsan enim eget augue imperdiet aliquet. In vitae tortor at justo fringilla tincidunt. Maecenas elementum auctor tortor. Maecenas posuere dolor justo, dictum ultricies nisl iaculis non. Praesent orci quam, feugiat nec erat in, accumsan feugiat tortor.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://phamcaohung.github.io/mywordpress/san-pham/chicken-recipe/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Cat and dog collar</title>
+		<link>https://phamcaohung.github.io/mywordpress/san-pham/cat-and-dog-collar-2/</link>
+					<comments>https://phamcaohung.github.io/mywordpress/san-pham/cat-and-dog-collar-2/#respond</comments>
+		
+		<dc:creator><![CDATA[phamcaohung]]></dc:creator>
+		<pubDate>Thu, 13 Oct 2022 03:10:55 +0000</pubDate>
+				<guid isPermaLink="false">https://phamcaohung.github.io/mywordpress/?post_type=product&#038;p=673</guid>
+
+					<description><![CDATA[<p class="availability stock in-stock" data-original="In Stock" data-class="in-stock">In Stock</p>
+
+<div class="ftc_excerpt">
+<div class="full-content">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum porttitor, massa pharetra malesuada rhoncus, metus metus commodo urna, vitae posuere leo sapien at elit. Nunc eu cursus nibh. D</div>
+</div>]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum porttitor, massa pharetra malesuada rhoncus, metus metus commodo urna, vitae posuere leo sapien at elit. Nunc eu cursus nibh. Donec accumsan enim eget augue imperdiet aliquet. In vitae tortor at justo fringilla tincidunt. Maecenas elementum auctor tortor. Maecenas posuere dolor justo, dictum ultricies nisl iaculis non. Praesent orci quam, feugiat nec erat in, accumsan feugiat tortor.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://phamcaohung.github.io/mywordpress/san-pham/cat-and-dog-collar-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Cat and dog collar</title>
+		<link>https://phamcaohung.github.io/mywordpress/san-pham/cat-and-dog-collar/</link>
+					<comments>https://phamcaohung.github.io/mywordpress/san-pham/cat-and-dog-collar/#respond</comments>
+		
+		<dc:creator><![CDATA[phamcaohung]]></dc:creator>
+		<pubDate>Thu, 13 Oct 2022 03:08:04 +0000</pubDate>
+				<guid isPermaLink="false">https://phamcaohung.github.io/mywordpress/?post_type=product&#038;p=670</guid>
+
+					<description><![CDATA[<p class="availability stock in-stock" data-original="In Stock" data-class="in-stock">In Stock</p>
+
+<div class="ftc_excerpt">
+<div class="full-content">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum porttitor, massa pharetra malesuada rhoncus, metus metus commodo urna, vitae posuere leo sapien at elit. Nunc eu cursus nibh. D</div>
+</div>]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum porttitor, massa pharetra malesuada rhoncus, metus metus commodo urna, vitae posuere leo sapien at elit. Nunc eu cursus nibh. Donec accumsan enim eget augue imperdiet aliquet. In vitae tortor at justo fringilla tincidunt. Maecenas elementum auctor tortor. Maecenas posuere dolor justo, dictum ultricies nisl iaculis non. Praesent orci quam, feugiat nec erat in, accumsan feugiat tortor.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://phamcaohung.github.io/mywordpress/san-pham/cat-and-dog-collar/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

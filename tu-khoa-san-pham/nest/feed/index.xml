@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Nest &#8211; My WordPress</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/nest/feed/" rel="self" type="application/rss+xml" />
+	<link>https://phamcaohung.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Thu, 13 Oct 2022 03:47:03 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<item>
+		<title>Framed-Sleeve</title>
+		<link>https://phamcaohung.github.io/mywordpress/san-pham/food-for-turtles/</link>
+					<comments>https://phamcaohung.github.io/mywordpress/san-pham/food-for-turtles/#respond</comments>
+		
+		<dc:creator><![CDATA[phamcaohung]]></dc:creator>
+		<pubDate>Thu, 13 Oct 2022 03:44:48 +0000</pubDate>
+				<guid isPermaLink="false">https://phamcaohung.github.io/mywordpress/?post_type=product&#038;p=727</guid>
+
+					<description><![CDATA[<p class="availability stock in-stock" data-original="In Stock" data-class="in-stock">In Stock</p>
+
+<div class="ftc_excerpt">
+<div class="full-content">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum porttitor, massa pharetra malesuada rhoncus, metus metus commodo urna, vitae posuere leo sapien at elit. Nunc eu cursus nibh. D</div>
+</div>]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum porttitor, massa pharetra malesuada rhoncus, metus metus commodo urna, vitae posuere leo sapien at elit. Nunc eu cursus nibh. Donec accumsan enim eget augue imperdiet aliquet. In vitae tortor at justo fringilla tincidunt. Maecenas elementum auctor tortor. Maecenas posuere dolor justo, dictum ultricies nisl iaculis non. Praesent orci quam, feugiat nec erat in, accumsan feugiat tortor.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://phamcaohung.github.io/mywordpress/san-pham/food-for-turtles/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Armani black</title>
+		<link>https://phamcaohung.github.io/mywordpress/san-pham/armani-black/</link>
+					<comments>https://phamcaohung.github.io/mywordpress/san-pham/armani-black/#respond</comments>
+		
+		<dc:creator><![CDATA[phamcaohung]]></dc:creator>
+		<pubDate>Thu, 13 Oct 2022 02:48:47 +0000</pubDate>
+				<guid isPermaLink="false">https://phamcaohung.github.io/mywordpress/?post_type=product&#038;p=602</guid>
+
+					<description><![CDATA[<p class="availability stock in-stock" data-original="In Stock" data-class="in-stock">In Stock</p>
+
+<div class="ftc_excerpt">
+<div class="full-content">Lorem ipsum dolor sit amet, feugiat delicata liberavisse id cum, no quo maiorum intellegebat, liber regione eu sit. Mea cu case ludus integre, vide viderer eleifend ex mea. His at soluta regione</div>
+</div>]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam nibh ligula, faucibus sit amet aliquet ac, molestie a massa. Fusce vitae feugiat enim, id fermentum magna. Aenean convallis egestas massa ac rhoncus. Integer iaculis et erat id auctor. Vivamus porta, mi a porttitor imperdiet, purus metus tempus elit, ut dictum mauris dui a tellus. Integer at ipsum sit amet sem vulputate ultricies in vel orci. Aliquam feugiat vulputate ligula, quis posuere tortor condimentum eget. Sed consequat ante sed congue pellentesque. Cras massa purus, venenatis in eros at, vestibulum finibus sapien. Nunc sodales facilisis tortor, sit amet scelerisque metus pharetra at. Proin efficitur consequat ipsum quis scelerisque. Quisque ac venenatis purus.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://phamcaohung.github.io/mywordpress/san-pham/armani-black/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
