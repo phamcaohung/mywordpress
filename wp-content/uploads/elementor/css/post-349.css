@@ -108,8 +108,19 @@
 /* Start custom CSS for social-icons, class: .elementor-element-6410ab7 */.icon
 {
     opacity: 0;
-    transition: 0.5s ease-in-out;
-}/* End custom CSS */
+}
+.cot:hover .icon
+{
+            animation: animation 0.5s linear;
+            transform-origin: bottom;            
+        }
+        @keyframes animation
+        {
+            0%
+            {
+                transform: scaleY(0);
+            }
+        }/* End custom CSS */
 /* Start custom CSS for column, class: .elementor-element-91ce612 */.elementor-349 .elementor-element.elementor-element-91ce612:hover .icon
 {
     opacity: 1;
@@ -153,3 +164,19 @@
 /* Start custom CSS for heading, class: .elementor-element-1bf732a */.elementor-349 .elementor-element.elementor-element-1bf732a .elementor-heading-title:hover{
     color: #80BB01;
 }/* End custom CSS */
+/* Start custom CSS for section, class: .elementor-element-cdfb9d2 */.icon
+{
+    opacity: 0;
+}
+.elementor-349 .elementor-element.elementor-element-cdfb9d2:hover .icon
+{
+    animation: animation 0.5s linear;
+            transform-origin: bottom;            
+        }
+@keyframes animation
+        {
+            0%
+            {
+                transform: scaleY(0);
+            }
+        }/* End custom CSS */

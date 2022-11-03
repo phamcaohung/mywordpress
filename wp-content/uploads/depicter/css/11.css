@@ -1,0 +1,283 @@
+
+.depicter-11:not(.depicter-ready){
+	height:100vh;
+}
+.depicter-revert.depicter-11 .depicter-layers-wrapper{
+	padding-left:15px;
+	padding-right:15px;
+}
+.depicter-revert .depicter-11-element-17{
+	opacity:0.6;
+}
+.depicter-11-element-17 .depicter-arrow-icon{
+	fill:#ffffff;
+}
+.depicter-11-element-17:not(.depicter-hover-off):hover .depicter-arrow-icon{
+	fill:#000958;
+}
+.depicter-11-element-19 .depicter-arrow-icon{
+	fill:#ffffff;
+}
+.depicter-11-element-19:not(.depicter-hover-off):hover .depicter-arrow-icon{
+	fill:#000958;
+}
+.depicter-revert .depicter-11-element-91{
+	font-size:18px;
+	color:#ffffff;
+	font-family:"Montserrat";
+	font-weight:500;
+	line-height:120%;
+	text-transform:capitalize;
+	background-color:transparent;
+}
+.depicter-revert .depicter-11-element-6{
+	opacity:1;
+	font-size:16px;
+	color:#ffffff;
+	font-family:"Neuton";
+	font-weight:700;
+	line-height:140%;
+	text-transform:capitalize;
+	background-color:transparent;
+}
+.depicter-revert .depicter-11-element-95{
+	font-size:16px;
+	text-align:center;
+	color:#000000;
+	font-family:"Neuton";
+	font-weight:700;
+	background-color:#eed306;
+}
+.depicter-revert .depicter-11-element-95:not(.depicter-hover-off):hover {
+	color:#FFF;
+	background-color:#222222;
+}
+.depicter-revert .depicter-11-element-96{
+	font-size:30px;
+	text-align:left;
+	color:#ffffff;
+	font-family:"Montserrat";
+	font-weight:700;
+	line-height:120%;
+	text-transform:capitalize;
+	background-color:transparent;
+}
+.depicter-revert .depicter-11-element-97{
+	font-size:18px;
+	color:#ffffff;
+	font-family:"Montserrat";
+	font-weight:500;
+	line-height:120%;
+	text-transform:capitalize;
+	background-color:transparent;
+}
+.depicter-revert .depicter-11-element-100{
+	padding:0px;
+	font-size:16px;
+	text-align:center;
+	color:#000000;
+	font-family:"Montserrat";
+	font-weight:700;
+	background-color:#ffffff;
+	border-radius:0px;
+}
+.depicter-revert .depicter-11-element-100:not(.depicter-hover-off):hover {
+	color:#FFF;
+	background-color:#222222;
+}
+.depicter-revert .depicter-11-element-99{
+	background-color:#AAAAAA;
+}
+.depicter-revert .depicter-11-element-98{
+	font-size:18px;
+	color:#ffffff;
+	font-family:"Neuton";
+	font-weight:400;
+	line-height:120%;
+	text-transform:capitalize;
+	background-color:transparent;
+}
+.depicter-revert .depicter-11-element-106{
+	background-color:#AAAAAA;
+}
+.depicter-revert .depicter-11-element-104{
+	background-color:rgba(5, 205, 153, 0.1);
+	border-radius:20px;
+}
+.depicter-revert .depicter-11-element-102{
+	font-size:72px;
+	text-align:left;
+	color:#ffffff;
+	font-family:"Montserrat";
+	font-weight:700;
+	line-height:120%;
+	text-transform:capitalize;
+	background-color:transparent;
+}
+.depicter-revert .depicter-11-section-101{
+	background-color:#282634;
+}
+.depicter-revert .depicter-11-element-124{
+	background-color:#AAAAAA;
+}
+.depicter-revert .depicter-11-element-123{
+	background-color:rgba(5, 205, 153, 0.1);
+	border-radius:20px;
+}
+.depicter-revert .depicter-11-element-122{
+	font-size:72px;
+	text-align:left;
+	color:#ffffff;
+	font-family:"Montserrat";
+	font-weight:700;
+	line-height:120%;
+	text-transform:capitalize;
+	background-color:transparent;
+}
+.depicter-revert .depicter-11-section-121{
+	background-color:#282634;
+}
+.depicter-revert .depicter-11-element-129{
+	background-color:#AAAAAA;
+}
+.depicter-revert .depicter-11-element-128{
+	background-color:rgba(5, 205, 153, 0.1);
+	border-radius:20px;
+}
+.depicter-revert .depicter-11-element-127{
+	font-size:72px;
+	text-align:left;
+	color:#ffffff;
+	font-family:"Montserrat";
+	font-weight:700;
+	line-height:120%;
+	text-transform:capitalize;
+	background-color:transparent;
+}
+.depicter-revert .depicter-11-section-126{
+	background-color:#282634;
+}
+
+/***** Tablet *****/
+@media screen and (max-width: 1024px){
+
+.depicter-revert .depicter-11-element-91{
+	font-size:15px;
+	color:#ffffff;
+	font-family:"Be Vietnam Pro";
+	font-weight:400;
+	line-height:120%;
+	text-transform:capitalize;
+}
+.depicter-revert .depicter-11-element-6{
+	opacity:0.7;
+	font-size:13px;
+	color:#ffffff;
+	font-family:"Be Vietnam Pro";
+	font-weight:300;
+	line-height:140%;
+	text-transform:capitalize;
+}
+.depicter-revert .depicter-11-element-96{
+	font-size:40px;
+	text-align:left;
+	color:#ffffff;
+	font-family:"Inter";
+	font-weight:600;
+	line-height:120%;
+	text-transform:capitalize;
+}
+.depicter-revert .depicter-11-element-97{
+	font-size:15px;
+	color:#ffffff;
+	font-family:"Be Vietnam Pro";
+	font-weight:400;
+	line-height:120%;
+	text-transform:capitalize;
+}
+.depicter-revert .depicter-11-element-98{
+	font-size:15px;
+	color:#ffffff;
+	font-family:"Be Vietnam Pro";
+	font-weight:400;
+	line-height:120%;
+	text-transform:capitalize;
+}
+.depicter-revert .depicter-11-element-102{
+	font-size:40px;
+	text-align:left;
+	color:#ffffff;
+	font-family:"Inter";
+	font-weight:600;
+	line-height:120%;
+	text-transform:capitalize;
+}
+.depicter-revert .depicter-11-element-122{
+	font-size:40px;
+	text-align:left;
+	color:#ffffff;
+	font-family:"Inter";
+	font-weight:600;
+	line-height:120%;
+	text-transform:capitalize;
+}
+.depicter-revert .depicter-11-element-127{
+	font-size:40px;
+	text-align:left;
+	color:#ffffff;
+	font-family:"Inter";
+	font-weight:600;
+	line-height:120%;
+	text-transform:capitalize;
+}
+
+}
+/***** Mobile *****/
+@media screen and (max-width: 767px){
+
+.depicter-revert .depicter-11-element-6{
+	font-size:12px;
+	color:#ffffff;
+	font-family:"Quicksand";
+	font-weight:400;
+	line-height:120%;
+	text-transform:capitalize;
+}
+.depicter-revert .depicter-11-element-96{
+	font-size:34px;
+	text-align:left;
+	color:#ffffff;
+	font-family:"Inter";
+	font-weight:600;
+	line-height:120%;
+	text-transform:capitalize;
+}
+.depicter-revert .depicter-11-element-102{
+	font-size:34px;
+	text-align:left;
+	color:#ffffff;
+	font-family:"Inter";
+	font-weight:600;
+	line-height:120%;
+	text-transform:capitalize;
+}
+.depicter-revert .depicter-11-element-122{
+	font-size:34px;
+	text-align:left;
+	color:#ffffff;
+	font-family:"Inter";
+	font-weight:600;
+	line-height:120%;
+	text-transform:capitalize;
+}
+.depicter-revert .depicter-11-element-127{
+	font-size:34px;
+	text-align:left;
+	color:#ffffff;
+	font-family:"Inter";
+	font-weight:600;
+	line-height:120%;
+	text-transform:capitalize;
+}
+
+}
