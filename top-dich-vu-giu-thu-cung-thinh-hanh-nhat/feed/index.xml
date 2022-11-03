@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Bình luận cho My WordPress	</title>
-	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://phamcaohung.github.io/mywordpress</link>
+	Các phản hồi luận về: Top 7 Dịch vụ giữ thú cưng thịnh hành	</title>
+	<atom:link href="http://localhost/myproject/wordpress/top-dich-vu-giu-thu-cung-thinh-hanh-nhat/feed/" rel="self" type="application/rss+xml" />
+	<link>https://phamcaohung.github.io/mywordpress/top-dich-vu-giu-thu-cung-thinh-hanh-nhat/</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Thu, 03 Nov 2022 03:28:12 +0000</lastBuildDate>
 	<sy:updatePeriod>

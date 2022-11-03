@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/author/phamcaohung/feed/" rel="self" type="application/rss+xml" />
 	<link>https://phamcaohung.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Thu, 27 Oct 2022 03:59:16 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 03 Nov 2022 03:28:12 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,13 +21,13 @@
 	<generator>https://wordpress.org/?v=6.1</generator>
 	<item>
 		<title>Top 7 Dịch vụ giữ thú cưng thịnh hành</title>
-		<link>https://phamcaohung.github.io/mywordpress/top-dich-vu-giu-thu-cung-thinh-hanh/</link>
-					<comments>https://phamcaohung.github.io/mywordpress/top-dich-vu-giu-thu-cung-thinh-hanh/#respond</comments>
+		<link>https://phamcaohung.github.io/mywordpress/top-dich-vu-giu-thu-cung-thinh-hanh-nhat/</link>
+					<comments>https://phamcaohung.github.io/mywordpress/top-dich-vu-giu-thu-cung-thinh-hanh-nhat/#respond</comments>
 		
 		<dc:creator><![CDATA[phamcaohung]]></dc:creator>
-		<pubDate>Thu, 27 Oct 2022 03:00:22 +0000</pubDate>
+		<pubDate>Thu, 03 Nov 2022 03:14:35 +0000</pubDate>
 				<category><![CDATA[Chưa phân loại]]></category>
-		<guid isPermaLink="false">https://phamcaohung.github.io/mywordpress/?p=839</guid>
+		<guid isPermaLink="false">https://phamcaohung.github.io/mywordpress/?p=1021</guid>
 
 					<description><![CDATA[Thông tin dịch vụ khách sạn chó mèo Kin Neko khách sạn chó mèo Kin Neko là một loại dịch vụ lưu trú/ khách sạn cho thú cưng chó mèo. Tại Dịch vụ trông giữ mèo TPHCM đây dịch vụ giữ thú cưng, khách sạn cho chó mèo sẽ cung cấp đầy đủ các dịch [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -176,7 +176,7 @@
 </div></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://phamcaohung.github.io/mywordpress/top-dich-vu-giu-thu-cung-thinh-hanh/feed/</wfw:commentRss>
+					<wfw:commentRss>https://phamcaohung.github.io/mywordpress/top-dich-vu-giu-thu-cung-thinh-hanh-nhat/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
