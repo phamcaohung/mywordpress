@@ -150,14 +150,6 @@
 }
 .elementor-348 .elementor-element.elementor-element-c4bfdae .elementor-widget-wrap:hover .diagonal{
     transform: rotate(-45deg);
-}
-.elementor-348 .elementor-element.elementor-element-c4bfdae .elementor-widget-wrap:hover .elementor-widget-divider{
-    transform: scaleX(2) translateX(20px);
-    transform-origin: left;
-}
-.elementor-348 .elementor-element.elementor-element-c4bfdae .elementor-widget-wrap:hover .elementor-widget-heading + .elementor-widget-divider{
-    transform: scaleX(2) translateX(-20px);
-    transform-origin: right;
 }/* End custom CSS */
 /* Start custom CSS for section, class: .elementor-element-cac7543 */.elementor-348 .elementor-element.elementor-element-cac7543 .diagonal{
     position: absolute;
@@ -174,14 +166,6 @@
 }
 .elementor-348 .elementor-element.elementor-element-cac7543 .elementor-widget-wrap:hover .diagonal{
     transform: rotate(-45deg);
-}
-.elementor-348 .elementor-element.elementor-element-cac7543 .elementor-widget-wrap:hover .elementor-widget-divider{
-    transform: scaleX(2) translateX(20px);
-    transform-origin: left;
-}
-.elementor-348 .elementor-element.elementor-element-cac7543 .elementor-widget-wrap:hover .elementor-widget-heading + .elementor-widget-divider{
-    transform: scaleX(2) translateX(-20px);
-    transform-origin: right;
 }/* End custom CSS */
 /* Start custom CSS for section, class: .elementor-element-4109ede */.elementor-348 .elementor-element.elementor-element-4109ede .diagonal{
     position: absolute;
@@ -198,19 +182,11 @@
 }
 .elementor-348 .elementor-element.elementor-element-4109ede .elementor-widget-wrap:hover .diagonal{
     transform: rotate(-45deg);
-}
-.elementor-348 .elementor-element.elementor-element-4109ede .elementor-widget-wrap:hover .elementor-widget-divider{
-    transform: scaleX(2) translateX(20px);
-    transform-origin: left;
-}
-.elementor-348 .elementor-element.elementor-element-4109ede .elementor-widget-wrap:hover .elementor-widget-heading + .elementor-widget-divider{
-    transform: scaleX(2) translateX(-20px);
-    transform-origin: right;
 }/* End custom CSS */
 /* Start custom CSS for column, class: .elementor-element-c0d8ae9 */:root{
     --first-color: black;
     --second-color: black;
-    --size: 200px;
+    --size: 150px;
     --speed: 3s;
 }
 .elementor-348 .elementor-element.elementor-element-c0d8ae9{
